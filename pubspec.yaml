@@ -17,13 +17,17 @@ dependencies:
     git:
       url: https://github.com/Mantano/mno_navigator_flutter.git
   mno_server:
-    path: mno_server_dart
+    git:
+      url: https://github.com/Mantano/mno_server_dart.git
   mno_streamer:
-    path: mno_streamer_dart
+    git:
+      url: https://github.com/Mantano/mno_streamer_dart.git
   mno_opds:
-    path: mno_opds_dart
+    git:
+      url: https://github.com/Mantano/mno_opds_dart.git
   mno_shared:
-    path: mno_shared_dart
+    git:
+      url: https://github.com/Mantano/mno_shared_dart.git
   cupertino_icons: ^1.0.4
   provider: ^6.0.2
   shared_preferences: ^2.0.12
