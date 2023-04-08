@@ -14,7 +14,8 @@ dependencies:
     git:
       url: https://github.com/Mantano/mno_commons_dart.git
   mno_navigator:
-    path: mno_navigator_flutter
+    git:
+      url: https://github.com/Mantano/mno_navigator_flutter.git
   mno_server:
     path: mno_server_dart
   mno_streamer:
