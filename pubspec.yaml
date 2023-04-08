@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   mno_commons:
-    path: mno_commons_dart
+    git:
+      url: https://github.com/Mantano/mno_commons_dart.git
   mno_navigator:
     path: mno_navigator_flutter
   mno_server:
